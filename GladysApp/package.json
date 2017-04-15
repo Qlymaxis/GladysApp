@@ -1,0 +1,9 @@
+{
+  "title": "GladysApp",
+  "category": "DomoticApp",
+  "description": "Unofficial application of Gladys domotic assistant",
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "2.0.0-rc1"
+  }
+}
